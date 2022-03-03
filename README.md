@@ -1,2 +1,2 @@
-# SPORTS-FACILITIES <3
+# SPORTS-FACILITIES
 Sports field bookings
